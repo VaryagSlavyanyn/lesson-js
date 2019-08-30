@@ -13,23 +13,23 @@
     align-items: center;
     margin: 0 -10px;
 }
-
+/**/
 .good-item {
     width: 150px;
     border: solid 1px grey;
     padding: 5px;
 }
-
+/**/
 .good-item-inner{
     padding: 0 10px;
 }
-
+/**/
 .img{
     height: 100px;
     background-color: rgba(225, 225, 225, .2);
     margin-bottom: 15px;
 }
-
+/**/
 .header{
     display: flex;
     align-items: center;
