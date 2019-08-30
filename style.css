@@ -1,12 +1,12 @@
 * {
     margin: 0;
 }
-
+/**/
 .container {
     max-width: 1360px;
     margin: 0 auto;
 }
-
+/**/
 .goods-list {
     display: flex;
     flex-wrap: wrap;
@@ -38,7 +38,7 @@
     border: solid 1px rgba(225, 225, 225, .6);
     margin-bottom: 20px;
 }
-
+/**/
 .price-title{
     display: flex;
     align-items: center;
